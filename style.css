@@ -1,0 +1,31 @@
+img {
+    height:350px;
+    weight:350px;
+    transition: .2s;
+    
+ 
+}
+
+img:hover {
+
+    border-radius: 10%;
+    height:340px;
+    weight:340px;
+    transition: .2s;
+}
+table {
+    width: 100%;
+}
+
+body {
+background-color: rgb(0,250,154,0.3);
+}
+
+h3 {
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color : black;
+}
